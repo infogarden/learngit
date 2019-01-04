@@ -1,3 +1,5 @@
+#百度词条爬虫练习
+
 import urllib.request
 import urllib.parse
 import re
